@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 IWOP 22기
+
+2023 7월 BSIT ~
 <!--
 **butdory/butdory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
