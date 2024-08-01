@@ -1,8 +1,10 @@
-### Hi there 👋
+![image](https://github.com/user-attachments/assets/0fb4b705-4bba-40cb-8204-a19b42375a08)### Hi there 👋
 
 IWOP 22기
 
-2023 7월 BSIT ~
+2023년 7월 ~ 2024년 7월 BSIT
+2024 8월 ~ (주) 선린
+
 <!--
 **butdory/butdory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
