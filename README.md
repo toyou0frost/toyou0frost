@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0fb4b705-4bba-40cb-8204-a19b42375a08)### Hi there 👋
+### Hi there 👋
 
 IWOP 22기
 
