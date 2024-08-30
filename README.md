@@ -4,7 +4,7 @@ IWOP 22기
 
 2023년 7월 ~ 2024년 7월 BSIT
 
-2024 8월 ~ (주) 선린
+2024년 8월 ~ (주) 선린
 
 <!--
 **butdory/butdory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
